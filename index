@@ -1,0 +1,4 @@
+git init
+git checkout -b main  # Create main branch
+git add .
+git commit -m "Initial commit"
